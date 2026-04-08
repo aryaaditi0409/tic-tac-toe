@@ -1,1 +1,1 @@
-Simple Tic Tac Toe Game , Nothing Fancy 
+Simple Tic Tac Toe Game 
